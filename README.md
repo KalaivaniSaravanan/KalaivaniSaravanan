@@ -3,8 +3,7 @@ My journey in tech has been filled with opportunities to shape efficient testing
 
 🔭 I’m currently working on leading QA efforts in cloud-based CRM and ERP solutions, especially in projects like Paywize, where I’ve developed automated test scripts 
 using Python and Robot Framework, ensuring seamless client management and financial operations.
-🌱 I’m actively seeking new opportunities in software testing where I can apply my extensive knowledge of manual and automated testing across industries such as
-finance and healthcare.
+🌱 🌱 I’m actively learning Software Testing Automation using Robot Framework at Metropolia's open university of applied sciences, and seeking new opportunities in software testing to apply my extensive knowledge of manual and automated testing across industries.
 👯 I’m looking to collaborate on projects that challenge my skills in test automation and quality assurance, while also exploring innovative tools like 
 Generative AI for enhanced testing workflows.
 🤔 I’m looking for help with breaking into more advanced test automation frameworks and exploring opportunities in cutting-edge tech projects.
